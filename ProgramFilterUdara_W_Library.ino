@@ -9,7 +9,7 @@
 
 const int lt = 30.00; //Batas suhu yang ditentukan
 const int lh = 80.00; //Batas kelembapan yang ditentukan
-const int ld = 300.00; //Batas densitas debu yang ditentukan
+const int ld = 150.00; //Batas densitas debu yang ditentukan
 
 
 DHT dht(pinDHT,DHT11);
